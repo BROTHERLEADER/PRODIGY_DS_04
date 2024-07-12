@@ -11,10 +11,15 @@ In this task, we perform sentiment analysis on Twitter data to understand public
 The dataset used in this task is the "Twitter Sentiment Analysis Dataset," which can be found on Kaggle. The dataset includes the following columns:
 
 Tweet ID: Unique identifier for each tweet
+
 entity: The entity mentioned in the tweet
+
 sentiment: The sentiment of the tweet (Positive, Negative, or Neutral)
+
 Tweet content: The content of the tweet
-Steps Involved
+
+
+# Steps Involved
 
 
 ## Data Loading and Exploration
@@ -43,7 +48,9 @@ Visualized the most common words in positive, negative, and neutral tweets using
 ## Files Included
 
 DECISION_TREE_CLASSIFIER.ipynb: Jupyter notebook containing the entire code for this task.
+
 twitter_training.csv: Training dataset used for analysis.
+
 twitter_validation.csv: Validation dataset used for analysis.
 
 
